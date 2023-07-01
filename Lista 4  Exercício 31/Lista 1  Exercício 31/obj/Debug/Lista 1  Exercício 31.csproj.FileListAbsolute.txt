@@ -1,0 +1,7 @@
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 31\Lista 1  Exercício 31\bin\Debug\Lista 1  Exercício 31.exe.config
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 31\Lista 1  Exercício 31\bin\Debug\Lista 1  Exercício 31.exe
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 31\Lista 1  Exercício 31\bin\Debug\Lista 1  Exercício 31.pdb
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 31\Lista 1  Exercício 31\obj\Debug\Lista 1  Exercício 31.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 31\Lista 1  Exercício 31\obj\Debug\Lista 1  Exercício 31.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 31\Lista 1  Exercício 31\obj\Debug\Lista 1  Exercício 31.exe
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 31\Lista 1  Exercício 31\obj\Debug\Lista 1  Exercício 31.pdb

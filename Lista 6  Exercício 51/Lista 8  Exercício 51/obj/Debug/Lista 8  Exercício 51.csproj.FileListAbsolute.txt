@@ -1,0 +1,7 @@
+F:\FATEC\Algoritmos\Lista 8  Exercício 51\Lista 8  Exercício 51\bin\Debug\Lista 8  Exercício 51.exe.config
+F:\FATEC\Algoritmos\Lista 8  Exercício 51\Lista 8  Exercício 51\bin\Debug\Lista 8  Exercício 51.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 51\Lista 8  Exercício 51\bin\Debug\Lista 8  Exercício 51.pdb
+F:\FATEC\Algoritmos\Lista 8  Exercício 51\Lista 8  Exercício 51\obj\Debug\Lista 8  Exercício 51.csprojAssemblyReference.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 51\Lista 8  Exercício 51\obj\Debug\Lista 8  Exercício 51.csproj.CoreCompileInputs.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 51\Lista 8  Exercício 51\obj\Debug\Lista 8  Exercício 51.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 51\Lista 8  Exercício 51\obj\Debug\Lista 8  Exercício 51.pdb

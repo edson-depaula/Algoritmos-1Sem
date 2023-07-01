@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\bin\Debug\Lista 10  Exercício 88b.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\bin\Debug\Lista 10  Exercício 88b.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\bin\Debug\Lista 10  Exercício 88b.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\obj\Debug\Lista 10  Exercício 88b.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\obj\Debug\Lista 10  Exercício 88b.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\obj\Debug\Lista 10  Exercício 88b.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\obj\Debug\Lista 10  Exercício 88b.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 88b\obj\Debug\Lista 10  Exercício 88b.pdb

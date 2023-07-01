@@ -1,0 +1,7 @@
+F:\FATEC\Algoritmos\Lista 1  Exercício 32\Lista 1  Exercício 32\bin\Debug\Lista 1  Exercício 32.exe.config
+F:\FATEC\Algoritmos\Lista 1  Exercício 32\Lista 1  Exercício 32\bin\Debug\Lista 1  Exercício 32.exe
+F:\FATEC\Algoritmos\Lista 1  Exercício 32\Lista 1  Exercício 32\bin\Debug\Lista 1  Exercício 32.pdb
+F:\FATEC\Algoritmos\Lista 1  Exercício 32\Lista 1  Exercício 32\obj\Debug\Lista 1  Exercício 32.csprojAssemblyReference.cache
+F:\FATEC\Algoritmos\Lista 1  Exercício 32\Lista 1  Exercício 32\obj\Debug\Lista 1  Exercício 32.csproj.CoreCompileInputs.cache
+F:\FATEC\Algoritmos\Lista 1  Exercício 32\Lista 1  Exercício 32\obj\Debug\Lista 1  Exercício 32.exe
+F:\FATEC\Algoritmos\Lista 1  Exercício 32\Lista 1  Exercício 32\obj\Debug\Lista 1  Exercício 32.pdb

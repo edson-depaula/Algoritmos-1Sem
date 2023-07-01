@@ -1,0 +1,16 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\bin\Debug\Lista 1  Exercício.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\bin\Debug\Lista 1  Exercício.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\bin\Debug\Lista 1  Exercício.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\obj\Debug\Lista 1  Exercício.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\obj\Debug\Lista 1  Exercício.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\obj\Debug\Lista 1  Exercício.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\obj\Debug\Lista 1  Exercício.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício\obj\Debug\Lista 1  Exercício.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\bin\Debug\Lista 1  Exercício.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\bin\Debug\Lista 1  Exercício.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\bin\Debug\Lista 1  Exercício.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\obj\Debug\Lista 1  Exercício.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\obj\Debug\Lista 1  Exercício.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\obj\Debug\Lista 1  Exercício.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\obj\Debug\Lista 1  Exercício.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 28 inc\obj\Debug\Lista 1  Exercício.pdb

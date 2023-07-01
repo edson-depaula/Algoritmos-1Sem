@@ -1,0 +1,16 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\bin\Debug\Lista 7  Exercício 44.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\bin\Debug\Lista 7  Exercício 44.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\bin\Debug\Lista 7  Exercício 44.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\obj\Debug\Lista 7  Exercício 44.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\obj\Debug\Lista 7  Exercício 44.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\obj\Debug\Lista 7  Exercício 44.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\obj\Debug\Lista 7  Exercício 44.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44\obj\Debug\Lista 7  Exercício 44.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\bin\Debug\Lista 7  Exercício 44.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\bin\Debug\Lista 7  Exercício 44.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\bin\Debug\Lista 7  Exercício 44.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\obj\Debug\Lista 7  Exercício 44.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\obj\Debug\Lista 7  Exercício 44.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\obj\Debug\Lista 7  Exercício 44.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\obj\Debug\Lista 7  Exercício 44.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 44 inc\obj\Debug\Lista 7  Exercício 44.pdb

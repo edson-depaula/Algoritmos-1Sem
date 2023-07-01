@@ -1,0 +1,7 @@
+F:\Algoritmos\Lista 8  Exercício 64\Lista 8  Exercício 64\bin\Debug\Lista 8  Exercício 64.exe.config
+F:\Algoritmos\Lista 8  Exercício 64\Lista 8  Exercício 64\bin\Debug\Lista 8  Exercício 64.exe
+F:\Algoritmos\Lista 8  Exercício 64\Lista 8  Exercício 64\bin\Debug\Lista 8  Exercício 64.pdb
+F:\Algoritmos\Lista 8  Exercício 64\Lista 8  Exercício 64\obj\Debug\Lista 8  Exercício 64.csprojAssemblyReference.cache
+F:\Algoritmos\Lista 8  Exercício 64\Lista 8  Exercício 64\obj\Debug\Lista 8  Exercício 64.csproj.CoreCompileInputs.cache
+F:\Algoritmos\Lista 8  Exercício 64\Lista 8  Exercício 64\obj\Debug\Lista 8  Exercício 64.exe
+F:\Algoritmos\Lista 8  Exercício 64\Lista 8  Exercício 64\obj\Debug\Lista 8  Exercício 64.pdb

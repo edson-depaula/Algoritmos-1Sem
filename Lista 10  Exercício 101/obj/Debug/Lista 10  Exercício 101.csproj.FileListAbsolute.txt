@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\bin\Debug\Lista 10  Exercício 101.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\bin\Debug\Lista 10  Exercício 101.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\bin\Debug\Lista 10  Exercício 101.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\obj\Debug\Lista 10  Exercício 101.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\obj\Debug\Lista 10  Exercício 101.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\obj\Debug\Lista 10  Exercício 101.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\obj\Debug\Lista 10  Exercício 101.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 101\obj\Debug\Lista 10  Exercício 101.pdb

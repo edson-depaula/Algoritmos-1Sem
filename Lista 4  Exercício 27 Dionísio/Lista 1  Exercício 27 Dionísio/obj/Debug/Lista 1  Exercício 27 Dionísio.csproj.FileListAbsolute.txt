@@ -1,0 +1,7 @@
+C:\Users\ALUNO\source\repos\Lista 1  Exercício 27 Dionísio\Lista 1  Exercício 27 Dionísio\bin\Debug\Lista 1  Exercício 27 Dionísio.exe.config
+C:\Users\ALUNO\source\repos\Lista 1  Exercício 27 Dionísio\Lista 1  Exercício 27 Dionísio\bin\Debug\Lista 1  Exercício 27 Dionísio.exe
+C:\Users\ALUNO\source\repos\Lista 1  Exercício 27 Dionísio\Lista 1  Exercício 27 Dionísio\bin\Debug\Lista 1  Exercício 27 Dionísio.pdb
+C:\Users\ALUNO\source\repos\Lista 1  Exercício 27 Dionísio\Lista 1  Exercício 27 Dionísio\obj\Debug\Lista 1  Exercício 27 Dionísio.csprojAssemblyReference.cache
+C:\Users\ALUNO\source\repos\Lista 1  Exercício 27 Dionísio\Lista 1  Exercício 27 Dionísio\obj\Debug\Lista 1  Exercício 27 Dionísio.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Lista 1  Exercício 27 Dionísio\Lista 1  Exercício 27 Dionísio\obj\Debug\Lista 1  Exercício 27 Dionísio.exe
+C:\Users\ALUNO\source\repos\Lista 1  Exercício 27 Dionísio\Lista 1  Exercício 27 Dionísio\obj\Debug\Lista 1  Exercício 27 Dionísio.pdb

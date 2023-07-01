@@ -1,0 +1,7 @@
+F:\Algoritmos\Lista 9  Exercício 80\Lista 9  Exercício 80\bin\Debug\Lista 9  Exercício 80.exe.config
+F:\Algoritmos\Lista 9  Exercício 80\Lista 9  Exercício 80\bin\Debug\Lista 9  Exercício 80.exe
+F:\Algoritmos\Lista 9  Exercício 80\Lista 9  Exercício 80\bin\Debug\Lista 9  Exercício 80.pdb
+F:\Algoritmos\Lista 9  Exercício 80\Lista 9  Exercício 80\obj\Debug\Lista 9  Exercício 80.csprojAssemblyReference.cache
+F:\Algoritmos\Lista 9  Exercício 80\Lista 9  Exercício 80\obj\Debug\Lista 9  Exercício 80.csproj.CoreCompileInputs.cache
+F:\Algoritmos\Lista 9  Exercício 80\Lista 9  Exercício 80\obj\Debug\Lista 9  Exercício 80.exe
+F:\Algoritmos\Lista 9  Exercício 80\Lista 9  Exercício 80\obj\Debug\Lista 9  Exercício 80.pdb

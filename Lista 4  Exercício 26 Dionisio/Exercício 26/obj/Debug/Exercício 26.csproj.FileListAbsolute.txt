@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\Exercício 26\Exercício 26\bin\Debug\Exercício 26.exe.config
+C:\Users\ALUNO\Desktop\Exercício 26\Exercício 26\bin\Debug\Exercício 26.exe
+C:\Users\ALUNO\Desktop\Exercício 26\Exercício 26\bin\Debug\Exercício 26.pdb
+C:\Users\ALUNO\Desktop\Exercício 26\Exercício 26\obj\Debug\Exercício 26.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercício 26\Exercício 26\obj\Debug\Exercício 26.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercício 26\Exercício 26\obj\Debug\Exercício 26.exe
+C:\Users\ALUNO\Desktop\Exercício 26\Exercício 26\obj\Debug\Exercício 26.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\bin\Debug\Exercício 26.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\bin\Debug\Exercício 26.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\bin\Debug\Exercício 26.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\obj\Debug\Exercício 26.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\obj\Debug\Exercício 26.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\obj\Debug\Exercício 26.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\obj\Debug\Exercício 26.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 26 Dionisio\Exercício 26\obj\Debug\Exercício 26.pdb

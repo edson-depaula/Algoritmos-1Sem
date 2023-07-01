@@ -1,0 +1,15 @@
+F:\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\bin\Debug\Lista 8  Exercício 65.exe.config
+F:\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\bin\Debug\Lista 8  Exercício 65.exe
+F:\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\bin\Debug\Lista 8  Exercício 65.pdb
+F:\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.csprojAssemblyReference.cache
+F:\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.csproj.CoreCompileInputs.cache
+F:\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.exe
+F:\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\bin\Debug\Lista 8  Exercício 65.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\bin\Debug\Lista 8  Exercício 65.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\bin\Debug\Lista 8  Exercício 65.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 65\Lista 8  Exercício 65\obj\Debug\Lista 8  Exercício 65.pdb

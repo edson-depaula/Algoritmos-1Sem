@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\bin\Debug\Lista 1  Exercício 33.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\bin\Debug\Lista 1  Exercício 33.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\bin\Debug\Lista 1  Exercício 33.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\obj\Debug\Lista 1  Exercício 33.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\obj\Debug\Lista 1  Exercício 33.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\obj\Debug\Lista 1  Exercício 33.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\obj\Debug\Lista 1  Exercício 33.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 33\obj\Debug\Lista 1  Exercício 33.pdb

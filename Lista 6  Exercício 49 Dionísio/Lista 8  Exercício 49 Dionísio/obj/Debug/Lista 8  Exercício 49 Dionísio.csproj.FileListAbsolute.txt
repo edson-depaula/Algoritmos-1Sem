@@ -1,0 +1,15 @@
+F:\FATEC\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\bin\Debug\Lista 8  Exercício 49 Dionísio.exe.config
+F:\FATEC\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\bin\Debug\Lista 8  Exercício 49 Dionísio.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\bin\Debug\Lista 8  Exercício 49 Dionísio.pdb
+F:\FATEC\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.csprojAssemblyReference.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.csproj.CoreCompileInputs.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\bin\Debug\Lista 8  Exercício 49 Dionísio.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\bin\Debug\Lista 8  Exercício 49 Dionísio.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\bin\Debug\Lista 8  Exercício 49 Dionísio.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 49 Dionísio\Lista 8  Exercício 49 Dionísio\obj\Debug\Lista 8  Exercício 49 Dionísio.pdb

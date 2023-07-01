@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\bin\Debug\Lista 8  Exercício 62.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\bin\Debug\Lista 8  Exercício 62.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\bin\Debug\Lista 8  Exercício 62.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\obj\Debug\Lista 8  Exercício 62.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\obj\Debug\Lista 8  Exercício 62.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\obj\Debug\Lista 8  Exercício 62.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\obj\Debug\Lista 8  Exercício 62.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 62 inc\obj\Debug\Lista 8  Exercício 62.pdb

@@ -1,0 +1,16 @@
+D:\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.csproj.AssemblyReference.cache
+D:\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.csproj.SuggestedBindingRedirects.cache
+D:\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.csproj.CoreCompileInputs.cache
+D:\Algoritmos\Lista 8  Exercício 54\bin\Debug\Lista 8  Exercício 54.exe.config
+D:\Algoritmos\Lista 8  Exercício 54\bin\Debug\Lista 8  Exercício 54.exe
+D:\Algoritmos\Lista 8  Exercício 54\bin\Debug\Lista 8  Exercício 54.pdb
+D:\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.exe
+D:\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\bin\Debug\Lista 8  Exercício 54.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\bin\Debug\Lista 8  Exercício 54.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\bin\Debug\Lista 8  Exercício 54.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 54\obj\Debug\Lista 8  Exercício 54.pdb

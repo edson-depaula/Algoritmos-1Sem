@@ -1,0 +1,24 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\bin\Debug\Lista 10  Exerício 89.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\bin\Debug\Lista 10  Exerício 89.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\bin\Debug\Lista 10  Exerício 89.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\obj\Debug\Lista 10  Exerício 89.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\obj\Debug\Lista 10  Exerício 89.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\obj\Debug\Lista 10  Exerício 89.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\obj\Debug\Lista 10  Exerício 89.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89\obj\Debug\Lista 10  Exerício 89.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\bin\Debug\Lista 10  Exerício 89.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\bin\Debug\Lista 10  Exerício 89.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\bin\Debug\Lista 10  Exerício 89.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\obj\Debug\Lista 10  Exerício 89.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\obj\Debug\Lista 10  Exerício 89.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\obj\Debug\Lista 10  Exerício 89.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\obj\Debug\Lista 10  Exerício 89.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exerício 89 inc\obj\Debug\Lista 10  Exerício 89.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\bin\Debug\Lista 10  Exerício 89.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\bin\Debug\Lista 10  Exerício 89.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\bin\Debug\Lista 10  Exerício 89.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\obj\Debug\Lista 10  Exerício 89.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\obj\Debug\Lista 10  Exerício 89.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\obj\Debug\Lista 10  Exerício 89.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\obj\Debug\Lista 10  Exerício 89.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 10  Exercício 89 inc\obj\Debug\Lista 10  Exerício 89.pdb

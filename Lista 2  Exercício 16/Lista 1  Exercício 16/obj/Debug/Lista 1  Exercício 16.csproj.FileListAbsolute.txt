@@ -1,0 +1,8 @@
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\bin\Debug\Lista 1  Exercício 16.exe.config
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\bin\Debug\Lista 1  Exercício 16.exe
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\bin\Debug\Lista 1  Exercício 16.pdb
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\obj\Debug\Lista 1  Exercício 16.csproj.AssemblyReference.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\obj\Debug\Lista 1  Exercício 16.csproj.SuggestedBindingRedirects.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\obj\Debug\Lista 1  Exercício 16.csproj.CoreCompileInputs.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\obj\Debug\Lista 1  Exercício 16.exe
+D:\FATEC\Algoritmos\Lista 1  Exercício 16\Lista 1  Exercício 16\obj\Debug\Lista 1  Exercício 16.pdb

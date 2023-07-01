@@ -1,0 +1,7 @@
+F:\FATEC\Algoritmos\Lista 8  Exercício 48 Dionísio\Lista 8  Exercício 48 Dionísio\bin\Debug\Lista 8  Exercício 48 Dionísio.exe.config
+F:\FATEC\Algoritmos\Lista 8  Exercício 48 Dionísio\Lista 8  Exercício 48 Dionísio\bin\Debug\Lista 8  Exercício 48 Dionísio.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 48 Dionísio\Lista 8  Exercício 48 Dionísio\bin\Debug\Lista 8  Exercício 48 Dionísio.pdb
+F:\FATEC\Algoritmos\Lista 8  Exercício 48 Dionísio\Lista 8  Exercício 48 Dionísio\obj\Debug\Lista 8  Exercício 48 Dionísio.csprojAssemblyReference.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 48 Dionísio\Lista 8  Exercício 48 Dionísio\obj\Debug\Lista 8  Exercício 48 Dionísio.csproj.CoreCompileInputs.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 48 Dionísio\Lista 8  Exercício 48 Dionísio\obj\Debug\Lista 8  Exercício 48 Dionísio.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 48 Dionísio\Lista 8  Exercício 48 Dionísio\obj\Debug\Lista 8  Exercício 48 Dionísio.pdb

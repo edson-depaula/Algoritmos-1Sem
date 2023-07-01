@@ -1,0 +1,16 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\bin\Debug\Lista 9  Exercício 83.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\bin\Debug\Lista 9  Exercício 83.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\bin\Debug\Lista 9  Exercício 83.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\bin\Debug\Lista 9  Exercício 83.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\bin\Debug\Lista 9  Exercício 83.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\bin\Debug\Lista 9  Exercício 83.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Exercicios Algoritmos\Lista 9  Exercício 83\obj\Debug\Lista 9  Exercício 83.pdb

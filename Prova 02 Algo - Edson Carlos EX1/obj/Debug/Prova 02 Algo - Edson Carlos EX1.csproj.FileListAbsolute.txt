@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\bin\Debug\Prova 02 Algo - Edson Carlos EX1.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\bin\Debug\Prova 02 Algo - Edson Carlos EX1.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\bin\Debug\Prova 02 Algo - Edson Carlos EX1.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\obj\Debug\Prova 02 Algo - Edson Carlos EX1.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\obj\Debug\Prova 02 Algo - Edson Carlos EX1.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\obj\Debug\Prova 02 Algo - Edson Carlos EX1.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\obj\Debug\Prova 02 Algo - Edson Carlos EX1.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Prova 02 Algo - Edson Carlos EX1\obj\Debug\Prova 02 Algo - Edson Carlos EX1.pdb

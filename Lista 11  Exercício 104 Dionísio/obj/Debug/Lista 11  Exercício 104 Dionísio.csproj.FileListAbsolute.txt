@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\bin\Debug\Lista 11  Exercício 104 Dionísio.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\bin\Debug\Lista 11  Exercício 104 Dionísio.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\bin\Debug\Lista 11  Exercício 104 Dionísio.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\obj\Debug\Lista 11  Exercício 104 Dionísio.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\obj\Debug\Lista 11  Exercício 104 Dionísio.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\obj\Debug\Lista 11  Exercício 104 Dionísio.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\obj\Debug\Lista 11  Exercício 104 Dionísio.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 104 Dionísio\obj\Debug\Lista 11  Exercício 104 Dionísio.pdb

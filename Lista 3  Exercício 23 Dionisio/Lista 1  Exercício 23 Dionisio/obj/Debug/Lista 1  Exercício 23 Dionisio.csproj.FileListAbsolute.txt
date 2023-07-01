@@ -1,0 +1,7 @@
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 23 Dionisio\Lista 1  Exercício 23 Dionisio\bin\Debug\Lista 1  Exercício 23 Dionisio.exe.config
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 23 Dionisio\Lista 1  Exercício 23 Dionisio\bin\Debug\Lista 1  Exercício 23 Dionisio.exe
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 23 Dionisio\Lista 1  Exercício 23 Dionisio\bin\Debug\Lista 1  Exercício 23 Dionisio.pdb
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 23 Dionisio\Lista 1  Exercício 23 Dionisio\obj\Debug\Lista 1  Exercício 23 Dionisio.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 23 Dionisio\Lista 1  Exercício 23 Dionisio\obj\Debug\Lista 1  Exercício 23 Dionisio.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 23 Dionisio\Lista 1  Exercício 23 Dionisio\obj\Debug\Lista 1  Exercício 23 Dionisio.exe
+C:\Users\ALUNO\Desktop\Lista 1  Exercício 23 Dionisio\Lista 1  Exercício 23 Dionisio\obj\Debug\Lista 1  Exercício 23 Dionisio.pdb

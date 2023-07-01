@@ -1,0 +1,8 @@
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\bin\Debug\Lista 1  Exercício 24.exe.config
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\bin\Debug\Lista 1  Exercício 24.exe
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\bin\Debug\Lista 1  Exercício 24.pdb
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\obj\Debug\Lista 1  Exercício 24.csproj.AssemblyReference.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\obj\Debug\Lista 1  Exercício 24.csproj.SuggestedBindingRedirects.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\obj\Debug\Lista 1  Exercício 24.csproj.CoreCompileInputs.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\obj\Debug\Lista 1  Exercício 24.exe
+D:\FATEC\Algoritmos\Lista 1  Exercício 24\obj\Debug\Lista 1  Exercício 24.pdb

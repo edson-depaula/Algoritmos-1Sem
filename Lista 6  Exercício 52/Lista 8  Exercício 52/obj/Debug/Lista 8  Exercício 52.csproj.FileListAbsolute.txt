@@ -1,0 +1,15 @@
+F:\FATEC\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\bin\Debug\Lista 8  Exercício 52.exe.config
+F:\FATEC\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\bin\Debug\Lista 8  Exercício 52.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\bin\Debug\Lista 8  Exercício 52.pdb
+F:\FATEC\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.csprojAssemblyReference.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.csproj.CoreCompileInputs.cache
+F:\FATEC\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.exe
+F:\FATEC\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\bin\Debug\Lista 8  Exercício 52.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\bin\Debug\Lista 8  Exercício 52.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\bin\Debug\Lista 8  Exercício 52.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 8  Exercício 52\Lista 8  Exercício 52\obj\Debug\Lista 8  Exercício 52.pdb

@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\bin\Debug\Lista 11  Exercício 110.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\bin\Debug\Lista 11  Exercício 110.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\bin\Debug\Lista 11  Exercício 110.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\obj\Debug\Lista 11  Exercício 110.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\obj\Debug\Lista 11  Exercício 110.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\obj\Debug\Lista 11  Exercício 110.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\obj\Debug\Lista 11  Exercício 110.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 11  Exercício 110\obj\Debug\Lista 11  Exercício 110.pdb

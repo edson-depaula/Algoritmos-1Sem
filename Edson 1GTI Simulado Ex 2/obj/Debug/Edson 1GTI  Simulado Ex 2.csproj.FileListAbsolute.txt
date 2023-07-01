@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\obj\Debug\Edson 1GTI  Simulado Ex 2.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\obj\Debug\Edson 1GTI  Simulado Ex 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\obj\Debug\Edson 1GTI  Simulado Ex 2.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\bin\Debug\Edson 1GTI  Simulado Ex 2.exe.config
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\bin\Debug\Edson 1GTI  Simulado Ex 2.exe
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\bin\Debug\Edson 1GTI  Simulado Ex 2.pdb
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\obj\Debug\Edson 1GTI  Simulado Ex 2.exe
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI  Simulado Ex 2\obj\Debug\Edson 1GTI  Simulado Ex 2.pdb

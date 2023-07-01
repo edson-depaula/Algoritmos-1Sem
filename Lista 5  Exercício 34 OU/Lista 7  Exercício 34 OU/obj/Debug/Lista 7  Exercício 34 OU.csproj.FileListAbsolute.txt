@@ -1,0 +1,15 @@
+F:\FATEC\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\bin\Debug\Lista 7  Exercício 34 OU.exe.config
+F:\FATEC\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\bin\Debug\Lista 7  Exercício 34 OU.exe
+F:\FATEC\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\bin\Debug\Lista 7  Exercício 34 OU.pdb
+F:\FATEC\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.csprojAssemblyReference.cache
+F:\FATEC\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.csproj.CoreCompileInputs.cache
+F:\FATEC\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.exe
+F:\FATEC\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\bin\Debug\Lista 7  Exercício 34 OU.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\bin\Debug\Lista 7  Exercício 34 OU.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\bin\Debug\Lista 7  Exercício 34 OU.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 7  Exercício 34 OU\Lista 7  Exercício 34 OU\obj\Debug\Lista 7  Exercício 34 OU.pdb

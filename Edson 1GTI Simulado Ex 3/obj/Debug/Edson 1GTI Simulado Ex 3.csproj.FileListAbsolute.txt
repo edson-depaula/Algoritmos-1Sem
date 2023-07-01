@@ -1,0 +1,16 @@
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\bin\Debug\Edson 1GTI Simulado Ex 3.exe.config
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\bin\Debug\Edson 1GTI Simulado Ex 3.exe
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\bin\Debug\Edson 1GTI Simulado Ex 3.pdb
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.exe
+C:\Users\edson\OneDrive\Área de Trabalho\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.pdb
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\bin\Debug\Edson 1GTI Simulado Ex 3.exe.config
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\bin\Debug\Edson 1GTI Simulado Ex 3.exe
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\bin\Debug\Edson 1GTI Simulado Ex 3.pdb
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.csproj.AssemblyReference.cache
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.csproj.SuggestedBindingRedirects.cache
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.csproj.CoreCompileInputs.cache
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.exe
+D:\Algoritmos\Edson 1GTI Simulado Ex 3\obj\Debug\Edson 1GTI Simulado Ex 3.pdb

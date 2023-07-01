@@ -1,0 +1,8 @@
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\obj\Debug\Lista 1  Exercício 27 inc.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\obj\Debug\Lista 1  Exercício 27 inc.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\obj\Debug\Lista 1  Exercício 27 inc.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\bin\Debug\Lista 1  Exercício 27 inc.exe.config
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\bin\Debug\Lista 1  Exercício 27 inc.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\bin\Debug\Lista 1  Exercício 27 inc.pdb
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\obj\Debug\Lista 1  Exercício 27 inc.exe
+C:\Users\edson\OneDrive\Documentos\Documentos FATEC\1º GTI\Resolvidos\Algoritmos\Lista 1  Exercício 27 inc\obj\Debug\Lista 1  Exercício 27 inc.pdb

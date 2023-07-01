@@ -1,0 +1,8 @@
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\bin\Debug\Lista 1  Exercício 18.exe.config
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\bin\Debug\Lista 1  Exercício 18.exe
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\bin\Debug\Lista 1  Exercício 18.pdb
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\obj\Debug\Lista 1  Exercício 18.csproj.AssemblyReference.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\obj\Debug\Lista 1  Exercício 18.csproj.SuggestedBindingRedirects.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\obj\Debug\Lista 1  Exercício 18.csproj.CoreCompileInputs.cache
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\obj\Debug\Lista 1  Exercício 18.exe
+D:\FATEC\Algoritmos\Lista 1  Exercício 18\obj\Debug\Lista 1  Exercício 18.pdb

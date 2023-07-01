@@ -1,0 +1,7 @@
+F:\FATEC\Algoritmos\Lista 1  Exercício 15\Lista 1  Exercício 15\bin\Debug\Lista 1  Exercício 15.exe.config
+F:\FATEC\Algoritmos\Lista 1  Exercício 15\Lista 1  Exercício 15\bin\Debug\Lista 1  Exercício 15.exe
+F:\FATEC\Algoritmos\Lista 1  Exercício 15\Lista 1  Exercício 15\bin\Debug\Lista 1  Exercício 15.pdb
+F:\FATEC\Algoritmos\Lista 1  Exercício 15\Lista 1  Exercício 15\obj\Debug\Lista 1  Exercício 15.csprojAssemblyReference.cache
+F:\FATEC\Algoritmos\Lista 1  Exercício 15\Lista 1  Exercício 15\obj\Debug\Lista 1  Exercício 15.csproj.CoreCompileInputs.cache
+F:\FATEC\Algoritmos\Lista 1  Exercício 15\Lista 1  Exercício 15\obj\Debug\Lista 1  Exercício 15.exe
+F:\FATEC\Algoritmos\Lista 1  Exercício 15\Lista 1  Exercício 15\obj\Debug\Lista 1  Exercício 15.pdb
